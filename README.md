@@ -6,7 +6,7 @@ Admin Panel
 Usernme: admin
 password: 123456
 ----------------------------------------------------------------------------------------------------------------
-Jobseker Panek
+Jobseker Panel
 Username: hasan@gmail.com
 Password: 123456
 
