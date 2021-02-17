@@ -5,12 +5,12 @@ Online job portal system i use html,css, bootstrap, php, mysql, javascript. Here
 Admin Panel
 Usernme: admin
 password: 123456
---------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 Jobseker Panek
 Username: hasan@gmail.com
 Password: 123456
 
-=-------------------------------------------
+=------------------------------------------------------------------------------------------------------------------------------
 Employee Panel
 username: raj-it@gmail.com
 Password: 123456
